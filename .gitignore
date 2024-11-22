@@ -1,0 +1,1 @@
+curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p <64d7b53948b7429c6420b8a5aeda830bfd03e464eb497c06bf16dd1931165565>
